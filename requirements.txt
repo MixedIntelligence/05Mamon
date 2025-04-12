@@ -1,0 +1,9 @@
+# File: requirements.txt
+# Path: /
+# Description: Defines the Python dependencies for the project.
+
+Flask==2.2.3
+Flask-SQLAlchemy==3.0.0
+Flask-Migrate==4.0.3
+psycopg2-binary==2.9.6
+pytest==7.2.2
