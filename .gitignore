@@ -1,0 +1,16 @@
+# File: .gitignore
+# Path: /
+# Description: Specifies intentionally untracked files for Git.
+
+# Python files
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Migrations
+migrations/
+
+# Docker-related
+*.docker
