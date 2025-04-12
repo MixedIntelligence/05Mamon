@@ -1,0 +1,15 @@
+05Mamon/
+├── app/
+│   ├── __init__.py
+│   ├── models.py         # Database models
+│   ├── routes.py         # Flask routes for the API
+│   ├── utils.py          # Utility functions (e.g., token calculations)
+│   ├── config.py         # Configuration settings
+├── migrations/           # Database migration files (Flask-Migrate)
+├── tests/
+│   ├── test_routes.py    # Unit tests for the API
+│   ├── test_models.py    # Unit tests for models
+├── Dockerfile            # Docker setup for deployment
+├── requirements.txt      # Python dependencies
+├── README.md             # Project description and setup instructions
+└── .gitignore            # Ignored files for Git
