@@ -1,0 +1,14 @@
+mamon-dao/
+├── contracts/
+│   ├── MXIToken.sol
+│   ├── GlyphToken.sol
+│   ├── ProposalSystem.sol
+│   └── RitualCodex.sol
+├── scripts/
+│   ├── deploy.js
+│   └── mintGlyphs.js
+├── test/
+│   └── dao.test.js
+├── hardhat.config.js
+├── package.json
+└── README.md
